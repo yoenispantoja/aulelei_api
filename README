@@ -1,0 +1,15 @@
+Proyecto Dorian API
+
+Run "npm install" to install all dependences
+
+=commands=
+
+    npm run start = run api server
+    npm run start:test = run api for testing environemnt
+    npm run test = run all tests
+    npm run seed = seed database
+    npm run seed:test = seed database for test environment
+
+    == docker compose ==
+    npm run postgres = run a postgress instance
+    npm run all = run a postgres instance and an api instance
